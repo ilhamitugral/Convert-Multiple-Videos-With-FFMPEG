@@ -2,7 +2,7 @@
 
 1. You need download [FFMPEG](https://ffmpeg.org/download.html).
 2. Add to `Enviroment Variables`
-3. Create a `*.bat` (ex: convert.bat) file for **Window**. If are you using Linux/macOS create `*` (ex: convert) file.
+3. Create a `*.bat` (ex: convert.bat) file for **Windows**. If are you using **Linux**/**macOS** create `*` (ex: convert) file.
 
 Now, we need to add this code.
 
