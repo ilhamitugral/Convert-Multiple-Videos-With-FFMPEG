@@ -1,8 +1,8 @@
 # Convert Multiple Videos With FFMPEG
 
 1. You need download [FFMPEG](https://ffmpeg.org/download.html).
-2. Add to `Enviroment Variables`
-3. Create a `*.bat` (ex: convert.bat) file for **Windows**. If are you using **Linux**/**macOS** create `*` (ex: convert) file.
+2. Add to `Enviroment Variables`.
+3. Create a `*.bat` (ex: convert.bat) file for **Windows**. If are you using **Linux**/**macOS** create `*.sh` (ex: convert.sh) file.
 
 Now, we need to add this code.
 
@@ -15,7 +15,7 @@ ffmpeg -i [old_video_n_path] [new_video_n_path]
 
 Save and exit.
 
-Execute on `CMD` or `Terminal`
+Execute on `CMD` or `Terminal`.
 
 # Example
 
